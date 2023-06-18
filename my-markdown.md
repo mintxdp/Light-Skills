@@ -82,6 +82,8 @@ Lists in markdown :
  ls -al
  ```
  ___  
+ Milestone in markdown :  
+ 
  * [X] Milestone1
  - [X] Milestone2
 
